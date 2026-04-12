@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Sanjar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjar06&label=Profile%20views&color=0e75b6&style=flat" alt="sanjar06" /> </p>
 
-- 🌱 I’m currently learning **C++, Web-Development**
-
-- 👨‍💻 All of my projects are available at [linktr.ee/code.monu](linktr.ee/code.monu)
-
-- 📝 I regularly write articles on [https://5ffeaf24cb70a.site123.me/](https://5ffeaf24cb70a.site123.me/)
+✨ Data Engineer | Prev. PM @girlscript <br>
+⚡ Check my ✨ [Website](https://5ffeaf24cb70a.site123.me/) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
+📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
+👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
+💬 Ask me about SEO/Data Science.<br>
 
 - 📫 How to reach me **codemonu77@gmail.com**
 
@@ -33,3 +34,232 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjar06&show_icons=true&locale=en" alt="sanjar06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjar06&" alt="sanjar06" /></p>
+<h3> Languages, Tools and Technologies 🚀 </h3>
+<table>
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Database Technologies</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+</tr>
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frameworks</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
+</tr>
+
+</table>
+<br>
+
+## :zap: Open Source Programs & Achievements
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 17th</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+	  Out of 17,000+ participants<br>
+          PRs Merged: 154<br>
+          Total Badges: 8<br>
+          Total Score: 3020<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Innovator Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="">
+          <img src="https://github.com/ananyag309/ananyag309/blob/main/gssoc.png" alt="GirlScript Summer of Code Extended" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code Extended</strong>
+        </a>
+        <br>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 3rd (Girls Category)</span>
+        <br>
+        <span style="font-size: 12px; color: #777777;">
+          1-month program<br>
+          PRs Merged: 160<br>
+          Total Badges: 9<br>
+          Total Score: 4115<br>
+        </span>
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="80" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="80" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <br>
+              <strong>Innovator Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="100">
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+          </tr>
+          <tr align="center">
+            <td colspan="4" style="padding: 10px;">
+              <img src="web3hack.png" alt="Web3 Hack Badge" width="80" />
+              <br>
+              <strong>Web3 Hack Badge</strong>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<br>
+
+
+
+
+<!-- Connect with Me Section -->
+<h2 align="center">Connect with Me</h2>
+
+<a href="https://www.linkedin.com/in/sanjar-nawaz-062b14328/" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
+</a>
+
+<a href="https://github.com/Sanjar06" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Ananya Skill Boost Google Profile" height="40" width="40" />  
+</a>
+<br>
+<br>
+<a href="https://holopin.me/ananyag309">   <img src="https://holopin.me/ananyag309" alt="@@ananyag309 Holopin board" /> </a>
+<!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
+</a>
+
+<a href="https://wokwi.com/makers/anonzya" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="Wokwi.jpeg" alt="Wokwi Profile" height="40" width="40" />
+</a>
+
+<a href="https://g.dev/ananyag309" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.google.com/favicon.ico" alt="Ananya Google Developer Profile" height="40" width="40" />  
+</a>
+
+<a href="https://www.hackerrank.com/profile/ananya30g" target="_blank" style="margin-right: 10px;">
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
+</a>
+
+-->
